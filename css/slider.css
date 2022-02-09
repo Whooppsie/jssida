@@ -19,6 +19,9 @@ h2{
         max-width: 90%;
         position: relative;
     }
+    .mainmenu{
+        width: 20%;
+    }
 }
 
 
@@ -35,10 +38,12 @@ h2{
         max-width: 75%;
         position: relative;
     }
+    .mainmenu{
+        width: 130px;
+    }
 }
 
 .mainmenu{
-    width: 130px;
     position: fixed;
     top: 20px;
     left: 10px;
