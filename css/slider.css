@@ -4,9 +4,7 @@ body{
 }
 
 @media screen and (min-width: 420px) {
-    body {
-    margin: 2px;
-    }
+    body {margin: 2px;}
     .wrapper_2col{
         margin-left: auto;
         margin-right: auto;
@@ -21,12 +19,8 @@ body{
         font-size: 23px;
         margin: 10px;
     }
-    h1 {
-        size: 48px;
-    }
-    h2 {
-        size: 35px;
-    }
+    h1 {size: 48px;}
+    h2 {size: 35px;}
     .wrapper_2col{
         margin-left: auto;
         margin-right: auto;
@@ -35,6 +29,14 @@ body{
     }
 }
 
+.mainmenu{
+    width: 130px;
+    position: fixed;
+    top: 20px;
+    left: 10px;
+    background: rgb(250, 241, 230);
+    padding: 8px 0;
+}
 
 .div-content {
     margin-left: auto;
