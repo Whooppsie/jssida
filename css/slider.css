@@ -4,11 +4,11 @@ body{
 }
 
 h1{
-    margin-left: 100px; 
+    margin-left: 130px; 
 }
 
 h2{
-    margin-left: 100px;
+    margin-left: 130px;
 }
 
 @media screen and (min-width: 420px) {
