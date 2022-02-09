@@ -3,6 +3,14 @@ body{
     color: rgb(49, 45, 45);
 }
 
+h1{
+    margin-left: 60px; 
+}
+
+h2{
+    margin-left: 60px;
+}
+
 @media screen and (min-width: 420px) {
     body {margin: 2px;}
     .wrapper_2col{
