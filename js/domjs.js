@@ -1,5 +1,10 @@
 "use strict";
 
+function myFunction(x) {
+    x.classList.toggle("change");
+  }
+
+
 var imageCounter = 1;
 showDiv(imageCounter);
 function changeImage(m) {
